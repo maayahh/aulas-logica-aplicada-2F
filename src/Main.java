@@ -30,5 +30,6 @@ public class Main {
 
         // definiçao de comportamento
         System.out.println(rainha.falar( "alto"));
+        rainha.comer();
     }
 }
